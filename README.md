@@ -1,8 +1,12 @@
-# YouTube Downloader MaterialDesign ***Windows OS Desktop***
+# YouTube Downloader MaterialDesign 
+## ***``Windows OS Desktop PC``*** [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/YouTubeDownloader-MaterialDesign/)
 ## The Prerequisites are Required: Loading Preview   
 ## **`Microsoft .NET Framework 4.5`**
 ***
+ [![Build Kugou Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/YouTubeDownloader-MaterialDesign/releases/tag/Debug)
+
 A Simple Youtube videos downloader using <a href="https://www.nuget.org/packages/YoutubeExtractor" >YoutubeExtractor</a> Package With windows forms , the YouTubeDownloader has a beautifull material design ui components.
+
 ## NuGet
 [YoutubeExtractor at NuGet](http://nuget.org/packages/YoutubeExtractor)
     Install-Package YoutubeExtractor

@@ -2,7 +2,7 @@
 
 # YouTube Downloader MaterialDesign  
 ## *`C# Microsoft Visual Studio (2017&2015&2013)`*
-## ***``Windows OS Desktop PC``*** [![Build Status](https://ci.appveyor.com/api/projects/status/um3h4xqen7vql7o2/branch/master?svg=true)](https://github.com/CreateDownloader/YouTubeDownloader-MaterialDesign/)
+## ***``Windows OS Desktop PC``*** [![Build Status](Build.svg)](https://github.com/CreateDownloader/YouTubeDownloader-MaterialDesign/)
 
  [![Build YouTube Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateDownloader/YouTubeDownloader-MaterialDesign/releases/tag/Debug)
 
